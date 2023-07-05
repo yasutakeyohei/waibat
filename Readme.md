@@ -23,7 +23,7 @@ waibat（ワイバット）
 
 ## 遊び方
 
-### Javaが必要です
+### Javaの実行環境とJava3Dが必要です（解説作成中）
 Javaがインストールされていない場合は次のサイトからインストールしてください。
 
 [https://www.java.com/ja/download/](https://www.java.com/ja/download/)
