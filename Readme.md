@@ -23,10 +23,20 @@ waibat（ワイバット）
 
 ## 遊び方
 
+### ダウンロードと実行
+
+作成中です。
+<!--
+
 ### Javaの実行環境とJava3Dが必要です（解説作成中）
 Javaがインストールされていない場合は次のサイトからインストールしてください。
 
 [https://www.java.com/ja/download/](https://www.java.com/ja/download/)
+
+また、次のサイトからJava3Dのインストールが必要です。
+[https://www.oracle.com/java/technologies/java-archive-downloads-java-client-downloads.html#java3d-1.5.1-oth-JPR](https://www.oracle.com/java/technologies/java-archive-downloads-java-client-downloads.html#java3d-1.5.1-oth-JPR)
+
+java3dの1.5.1のうち、CPUがAMDの方はjava3d-1_5_1-windows-amd64.exeを、intelの方はjava3d-1_5_1-windows-i586.exeをインストールしてください（CPUのことが分からなければどちらをインストールしても問題ないと思います）。
 
 ### Windows用実行可能ファイルから起動
 
@@ -35,6 +45,8 @@ Windows用の実行可能ファイルはこちらからダウンロードでき�
 [Windows用実行ファイル](https://github.com/yasutakeyohei/waibat/releases/tag/v1.0.0)
 
 waibat.exeをダウンロードし、ダブルクリックで実行します。しばらくすると画面が開いてゲームがスタートします。
+-->
+
 
 ### ゲームの目的
 このゲームの目的は、さまざまな作業を並行に最大効率でこなすことです。
