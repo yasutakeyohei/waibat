@@ -23,6 +23,11 @@ waibat（ワイバット）
 
 ## 遊び方
 
+### Javaが必要です
+Javaがインストールされていない場合は次のサイトからインストールしてください。
+
+[https://www.java.com/ja/download/](https://www.java.com/ja/download/)
+
 ### Windows用実行可能ファイルから起動
 
 Windows用の実行可能ファイルはこちらからダウンロードできます。
