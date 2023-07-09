@@ -7,6 +7,10 @@ waibat（ワイバット）
 
 https://github.com/yasutakeyohei/waibat/assets/61961825/b975d124-7522-44b7-9cae-b3fa148cb846
 
+
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">test<a href="https://t.co/ZefQ1xBGPz">https://t.co/ZefQ1xBGPz</a><br></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 （注）コードはすべて独自のもので、WOMBAT-CSを製作しているAERO INNOVATION社とは一切関係がありません。WOMBAT-CSは検査の詳細が公開されていることなどから、waibatを公開しても、著作権法、意匠法、不正競争防止法等の法令等には抵触しないものと考えています。AERO INNOVATION社の利益を侵害する意図はなく、同社等から指摘があった場合には公開を取りやめます。また、waibatは単なる簡易的なゲームであり、WOMBAT-CSとは、ルール、操作性、点数の計算などさまざまな点が異なります。このゲームに慣れることで適性検査に通りやすくなるといった効果が期待できるものではありません。
 
 ## ゲームについて
