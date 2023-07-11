@@ -200,6 +200,6 @@ WOMBAT-CSのスコア計算方法が不明なため、このソフトでは参�
 [MIT](/LICENSE)
  
 ## 作者
-[安竹洋平(小平市議)](https://yasutakeyohei.com)
-[yasutakeyohei(github)](https://github.com/yasutakeyohei)
-[Twitter](https://yasutakeyohei.com)
+- [安竹洋平(小平市議)](https://yasutakeyohei.com)
+- [yasutakeyohei(github)](https://github.com/yasutakeyohei)
+- [Twitter](https://yasutakeyohei.com)
